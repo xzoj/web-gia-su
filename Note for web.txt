@@ -1,19 +1,20 @@
-﻿Cả 2 phiên bản:
+﻿THỐNG KÊ LỖI + BỔ SUNG + SỬA ĐỔI GIAO DIỆN, CHỨC NĂNG WEB SITE GIASUMINHPHUONG.COM ( LẦN 1 ).
+(I)Cả 2 phiên bản:
 	+ Click vào các danh mục thì web mới cần nhảy xuống nội dung cần đọc.
-	+ Dialog đăng nhập không phù hợp với tông màu web.
+	+ Dialog đăng nhập không phù hợp với tông màu web chuyển nền nút đăng nhập thành #03b4f5. Nếu bạn chưa có tài khoản -> nút đăng ký -> chuyển thành " Nếu bạn chưa có tài khoản Đăng ký tại đây?" ( Đăng ký tại đây? màu đỏ)
+	+ Chuyển hỗ trợ nói chuyện sang fanpage facebook.
 
-
-Giao diện phiên bản PC:
+(II)Giao diện phiên bản PC:
 
 	1: Nút scroll top xấu.
 	2: Chân trang xấu.
 	3: Form đăng ký tìm gia sư hiện đang lỗi nút đăng ký.
 	4: Phần gia sư đăng nhập ( Cột bên phải ) đổi thành "Gia sư tìm kiếm" và đổi nội dung chức năng tìm  kiếm theo mã lớp cho chính xác.
-	5: Phương - Xem xét cỡ chữ cho phù hợp. Hiện tại đang thấy hơi bị bé *****
+	5: Kích thước phông chữ tăng lên +1.
 	6: Chỉnh vị trí message và nut scroll cho không bị trùng nhau.
 
 
-Giao diện phiên bản Mobile:
+(III)Giao diện phiên bản Mobile:
 	1: Bản đồ chỉ đường lỗi.
 	2: Bị khoảng trống giữa mục "xem nhiều hơn" và "facebook"
 	3: Dialog đăng nhập  sai vị trí.
@@ -23,8 +24,21 @@ Giao diện phiên bản Mobile:
 	7: Nội dung cần cách viền  vài mm. ( Form liên hệ các ô input tràn cả ra viền )
 	8: Placeholder trong khung "gia sư đăng nhập" lỗi.
 
-Chức năng:
-	1: Link đăng ký trong dialog đăng nhập (menu) chuyển thẳng sang form đăng ký là gia sư đầy đủ.
+(IV)Chức năng:
+	1: Link đăng ký trong dialog đăng nhập (menu) chuyển thẳng sang form đăng ký là gia sư đầy đủ (xóa luôn dialog đăng ký).
 	2: Thêm phần sửa thông tin cho gia sư đã có tài khoản.
+	3: Thêm mật khẩu cho form đăng ký gia sư.
+	4: Hoàn thiện chức năng thêm mới trong menu "Danh mục giảng viên -> Trình độ".
+	5: Mục "Danh sách môn học" trong "Quản lý lớp học" sửa thành 3 mục này kèm nội dung cho phù hợp: 	
+		+ Danh sách lớp chưa giao (hiển thị thêm thời gian đăng ký).
+										
+		+ Danh sách lớp đã giao (hiển thị thêm thời gian giao).
+										
+		+ Danh sách môn học.
 	
-	
+	6: "Danh sách đăng ký" trong mục "Quản lý đăng ký" đổi thành: Danh sách đăng ký chưa kiểm duyệt (Tài khoản chưa active, khi active thì chuyển sang "danh sách gia sư" trong "Danh mục giảng viên").
+	7: Chưa có phần quản lý nhân viên trung tâm với admin là quyền to nhất ( thêm - sửa - xóa - xem lịch sử làm việc nhân viên). -> thêm mục "quản lý nhân viên" trong menu.
+		+ Danh sách nhân viên ( thêm - sửa - xóa ).
+		+ Lịch sử làm việc ( tác vụ ) theo từng nhân viên, tất cả nhân viên.
+	8: Các nhân viên có quyền sử dụng các tác vụ thông thường ngoại trừ thêm sửa xóa nhân viên.
+***	9: Bảo mật thông tin khách hàng. Chống phá hoại server. ( Bên lập trình website tự thảo luận và đưa ra ý kiến trao đổi).
