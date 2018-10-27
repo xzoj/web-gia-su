@@ -1,0 +1,30 @@
+﻿Cả 2 phiên bản:
+	+ Click vào các danh mục thì web mới cần nhảy xuống nội dung cần đọc.
+	+ Dialog đăng nhập không phù hợp với tông màu web.
+
+
+Giao diện phiên bản PC:
+
+	1: Nút scroll top xấu.
+	2: Chân trang xấu.
+	3: Form đăng ký tìm gia sư hiện đang lỗi nút đăng ký.
+	4: Phần gia sư đăng nhập ( Cột bên phải ) đổi thành "Gia sư tìm kiếm" và đổi nội dung chức năng tìm  kiếm theo mã lớp cho chính xác.
+	5: Phương - Xem xét cỡ chữ cho phù hợp. Hiện tại đang thấy hơi bị bé *****
+	6: Chỉnh vị trí message và nut scroll cho không bị trùng nhau.
+
+
+Giao diện phiên bản Mobile:
+	1: Bản đồ chỉ đường lỗi.
+	2: Bị khoảng trống giữa mục "xem nhiều hơn" và "facebook"
+	3: Dialog đăng nhập  sai vị trí.
+	4: Khi click vào nội dung nào đó ngoài trang chủ thì bỏ cột 1 đi hoặc chuyển xuống dưới.
+	5: Menu button mục Phụ Huynh và Gia sư cần viết đủ nội dung và liên kết tại dấu (+). Ví dụ: Phụ huynh: -đăng ký tìm gia sư, phụ huynh cần biết ..v.v.
+	6: Khi menu đang bật mà thao ra ngoài thì tắt menu đi.
+	7: Nội dung cần cách viền  vài mm. ( Form liên hệ các ô input tràn cả ra viền )
+	8: Placeholder trong khung "gia sư đăng nhập" lỗi.
+
+Chức năng:
+	1: Link đăng ký trong dialog đăng nhập (menu) chuyển thẳng sang form đăng ký là gia sư đầy đủ.
+	2: Thêm phần sửa thông tin cho gia sư đã có tài khoản.
+	
+	
